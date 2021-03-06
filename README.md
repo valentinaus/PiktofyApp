@@ -7,13 +7,15 @@ It allows the users to register, post, delete, like, dislike and comment picture
 
 Here you can see the project Entity-relatonship model (ERM) Diagram and the Data Relational Model (DRM).
 
+
+## ERM
 ![MERPIKTOFY](https://user-images.githubusercontent.com/42383401/110209469-ca3bb880-7e5a-11eb-9e7c-68987082be02.png)
 
 
 
 
 
-
+## DRM
 ![piktofy mrd](https://user-images.githubusercontent.com/42383401/110209510-02db9200-7e5b-11eb-8909-64ce4331ed32.PNG)
 
 
