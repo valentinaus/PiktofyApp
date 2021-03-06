@@ -5,7 +5,7 @@ Piktofy is a demo project made for the "Multimedia Data Bases" course. It's a so
 It allows the users to register, post, delete, like, dislike and comment pictures. They can also find posts by their name o tag.
 
 
-Here you can see the project Entity-relatonship model (ERM) Diagram and the Data Relational Model (DRM).
+Here you can see the project Entity-relationship model (ERM) Diagram and the Data Relational Model (DRM).
 
 
 ## ERM
