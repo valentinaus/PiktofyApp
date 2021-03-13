@@ -4,6 +4,11 @@ Piktofy es un proyecto demo desarrollado para el curso de "Bases de Datos Multim
 
 Piktofy permite a los usuarios registrarse, postear, eliminar, darle me gusta o me disgusta y comentar imágenes. Además, se puede buscar posts por su nombre, categoría o tag.
 
+## Objetivo
+
+Desarrollar una aplicación funcional que permita el almacenamiento de datos de tipo imagen, audio o video a través de formatos en Mysql y responda a consultas realizadas por el usuario.
+
+##
 Aquí se puede ver el diagrama modelo Entidad-Relacion (ERM) del proyecto, así como su Modelo Relacional de Datos (DRM).
 
 ## ERM
@@ -54,7 +59,7 @@ Permite también agregar nuevas categorías en la que los usuarios puedan relaci
 Si deseas probar el proyecto, descargalo o clonalo.
 Abrelo en Netbeans y utiliza la base de datos:
 ```
-pikto22
+pikto22.sql
 
 ```
 
