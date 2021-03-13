@@ -49,4 +49,12 @@ Permite también agregar nuevas categorías en la que los usuarios puedan relaci
 
 
 
+## Prueba el proyecto
+
+Si deseas probar el proyecto, descargalo o clonalo.
+Abrelo en Netbeans y utiliza la base de datos:
+```
+pikto22
+
+```
 
