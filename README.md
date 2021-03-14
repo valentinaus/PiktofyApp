@@ -8,6 +8,14 @@ Piktofy permite a los usuarios registrarse, postear, eliminar, darle me gusta o 
 
 Desarrollar una aplicación funcional que permita el almacenamiento de datos de tipo imagen, audio o video a través de formatos en Mysql y responda a consultas realizadas por el usuario.
 
+## Dependencias
+```
+- MySQL JDBC Driver/mysql-connector-java-55.1.23
+- jcalendar-1.4
+- LGoodDatePicker-10.4.1
+- JDK 1.8
+```
+
 ##
 Aquí se puede ver el diagrama modelo Entidad-Relacion (ERM) del proyecto, así como su Modelo Relacional de Datos (DRM).
 
